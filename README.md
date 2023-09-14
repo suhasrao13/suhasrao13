@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas Rao</h1>
-<h3 align="center">A 3rd Year CSE student interested in B.E development roles</h3>
+<h3 align="center">A  4th Year CSE student interested in B.E development roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasrao13&label=Profile%20views&color=0e75b6&style=flat" alt="suhasrao13" /> </p>
 
